@@ -44,7 +44,7 @@ This time it went a lot more smoothly. I couldn't find the "Wonder Woman" when I
 - [ x] (1pt) Run your app on a real device. Used a screenrecord it device which doesn't get saved to a website but am attaching it to the files as mp4 below.
 
 ### App Walkthrough GIF
-Run on my iPhone Glitzy XS Max https://user-images.githubusercontent.com/88634981/154132024-ba836000-684d-4b31-97b0-016c5992c031.mp4
+BONUS WALKTHROUGH: Run on my iPhone Glitzy XS Max https://user-images.githubusercontent.com/88634981/154132024-ba836000-684d-4b31-97b0-016c5992c031.mp4
 
 <img src="http://g.recordit.co/LfE9RgrWxm.gif" width=250><br>
 <img src="http://g.recordit.co/AiWZGJ2cbX.gif" width=250><br>
